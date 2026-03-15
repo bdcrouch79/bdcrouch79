@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/cd-mark.png" width="90">
+</p>
 # Bryan Crouch
 
 Technologist interested in systems thinking, execution frameworks, and the practical use of AI and automation.
@@ -44,4 +47,5 @@ These projects are intentionally lightweight and are used to explore:
 • execution systems
 
 https://crouchdevelopment.com
+
 
