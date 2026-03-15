@@ -1,36 +1,29 @@
-\# Bryan Crouch
+# Bryan Crouch
 
+Technologist interested in systems thinking, execution frameworks, and the practical use of AI and automation.
 
+I’ve spent most of my career working across infrastructure, data systems, and enterprise platforms.  
+Lately I’ve been exploring how better systems design — both technical and human — can dramatically improve execution.
 
-Systems thinker • Builder • Technologist
+## Areas I Think About
 
+- systems architecture
+- automation workflows
+- applied AI
+- execution and feedback systems
+- enterprise technology strategy
 
+## Current Experiments
 
-I explore how systems, automation, and applied AI can improve execution and decision-making.
+Several small repos here are essentially working notebooks where I explore ideas like:
 
+- execution scoring systems
+- automation patterns
+- AI workflow orchestration
+- architecture sketches for modern systems
 
+Nothing here is meant to be production software — just practical explorations of ideas that I find interesting.
 
-\## Focus
+---
 
-
-
-\- execution systems
-
-\- applied AI workflows
-
-\- automation architecture
-
-\- enterprise systems design
-
-
-
-\## Projects
-
-
-
-\- Execution Engine
-
-\- AI Workflow Experiments
-
-\- Systems Thinking Notes
-
+> Progress compounds. Small improvements applied consistently eventually create very large outcomes.
