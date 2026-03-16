@@ -3,7 +3,7 @@
 </p>
 # Bryan Crouch
 
-Technologist interested in systems thinking, execution frameworks, and the practical use of AI and automation.
+Technologist obsessed with systems thinking, execution frameworks, and the practical use of AI and automation.
 
 I’ve spent most of my career working across infrastructure, data systems, and enterprise platforms.  
 Lately I’ve been exploring how better systems design — both technical and human — can dramatically improve execution.
