@@ -1,7 +1,7 @@
 <p align="center">
   <img src="assets/cd-mark.png" width="90">
 </p>
-# Bryan Crouch
+## Bryan Crouch
 
 Technologist obsessed with systems thinking, execution frameworks, and the practical use of AI and automation.
 
