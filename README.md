@@ -25,7 +25,7 @@ Several small repos here are essentially working notebooks where I explore ideas
 - AI workflow orchestration
 - architecture sketches for modern systems
 
-Nothing here is meant to be production software — just practical explorations of ideas that I find interesting.
+Nothing here is meant to be production software (EXCEPT Outcome OS) — just practical explorations of ideas that I find interesting.
 
 ---
 
