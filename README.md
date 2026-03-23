@@ -2,49 +2,92 @@
   <img src="assets/cd-mark.png" width="90">
 </p>
 
-Technologist obsessed with systems thinking, execution frameworks, and the practical use of AI and automation.
+# Bryan Crouch
 
-I’ve spent most of my career working across infrastructure, data systems, and enterprise platforms.  
-Lately I’ve been exploring how better systems design — both technical and human — can dramatically improve execution.
+I build systems that improve execution.
 
-## Areas I Think About
+Most of my work sits at the intersection of:
 
-- systems architecture
-- automation workflows
-- applied AI
-- execution and feedback systems
-- enterprise technology strategy
+- applied AI  
+- automation  
+- data-driven decision systems  
+- real-world execution frameworks  
 
-## Current Experiments
+I’m less interested in theory and more focused on:
 
-Several small repos here are essentially working notebooks where I explore ideas like:
-
-- execution scoring systems
-- automation patterns
-- AI workflow orchestration
-- architecture sketches for modern systems
-
-Nothing here is meant to be production software (EXCEPT Outcome OS) — just practical explorations of ideas that I find interesting.
+👉 what actually produces better outcomes  
 
 ---
 
-> Progress compounds. Small improvements applied consistently eventually create very large outcomes.
+## What I’m Doing Right Now
+
+Lately I’ve been designing and building tools that move beyond static analytics and into **decision support systems**.
+
+One example:
+
+- AI-powered YouTube performance comparison engine  
+  → compares two videos  
+  → analyzes why one outperformed the other  
+  → scores content across title strength, positioning, engagement, and velocity  
+  → produces actionable recommendations  
+
+The goal isn’t to describe content.
+
+The goal is to **explain performance and improve it**.
+
 ---
 
-Crouch Development  
+## How I Think
+
+Most systems fail for the same reason:
+
+They collect information, but don’t drive action.
+
+I focus on building systems that:
+
+- identify gaps  
+- quantify performance  
+- create feedback loops  
+- drive better decisions  
+
+---
+
+## Areas of Focus
+
+- systems architecture  
+- execution systems  
+- applied AI workflows  
+- automation design  
+- performance analysis  
+
+---
+
+## Current Work Style
+
+This repo is not a polished product showcase.
+
+It’s a working environment.
+
+You’ll find:
+
+- experiments  
+- system prototypes  
+- evolving ideas  
+- practical implementations  
+
+Everything here is built with one constraint:
+
+👉 it must be useful in the real world  
+
+---
+
+## Crouch Development
+
 Systems. Strategy. Execution.
-
-This repository is part of an ongoing set of technical experiments and
-architecture explorations conducted under the Crouch Development umbrella.
-
-These projects are intentionally lightweight and are used to explore:
-
-• systems thinking  
-• automation architecture  
-• operational analytics  
-• applied AI workflows  
-• execution systems
 
 https://crouchdevelopment.com
 
+---
 
+> Better systems create better outcomes.  
+> Better outcomes compound.
