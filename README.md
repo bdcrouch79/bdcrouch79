@@ -1,39 +1,58 @@
 <p align="center">
-  <img src="assets/cd-mark.png" width="90">
+  <img src="assets/cd-mark.png" width="90" alt="Crouch Development mark">
 </p>
 
 # Bryan Crouch
 
 I build systems that improve execution.
 
-Most of my work sits at the intersection of:
+Crouch Development sits at the intersection of:
 
-- applied AI  
-- automation  
-- data-driven decision systems  
-- real-world execution frameworks  
+- applied AI
+- automation
+- execution systems
+- decision support
+- productized tools
+- real-world business leverage
 
-I’m less interested in theory and more focused on:
+I care less about theory and more about one question:
 
-👉 what actually produces better outcomes  
+**What actually helps people move faster, decide better, and produce better outcomes?**
 
 ---
 
-## What I’m Doing Right Now
+## What This Repository Represents
 
-Lately I’ve been designing and building tools that move beyond static analytics and into **decision support systems**.
+This is not a polished “look at me” portfolio repo.
 
-One example:
+It is a live working environment.
 
-- AI-powered YouTube performance comparison engine  
-  → compares two videos  
-  → analyzes why one outperformed the other  
-  → scores content across title strength, positioning, engagement, and velocity  
-  → produces actionable recommendations  
+Inside this ecosystem are experiments, product shells, decision tools, lead-generation systems, and execution frameworks that are actively being designed, refined, and pushed forward in public.
 
-The goal isn’t to describe content.
+The constraint is simple:
 
-The goal is to **explain performance and improve it**.
+**It has to be useful in the real world.**
+
+---
+
+## What I’m Building
+
+### BidForge
+Fast estimating software for small contractors.
+
+Built to help small shops create professional estimates, cleaner proposals, and a more practical workflow without bloated software overhead.
+
+### Outcome OS
+An execution system for turning ideas into structured action, repeatable workflows, and compounding progress.
+
+### Client Capture Systems
+Productized lead-capture and web-presence systems built for service businesses that need to look legitimate, reduce friction, and generate more inbound requests.
+
+### YouTube Performance Analyzer
+An AI-assisted comparison engine that evaluates two videos, explains why one outperformed the other, and surfaces actionable fixes tied to title strength, positioning, engagement, and velocity.
+
+### Production Mode
+A focused execution framework built around moving from planning into real output.
 
 ---
 
@@ -41,51 +60,51 @@ The goal is to **explain performance and improve it**.
 
 Most systems fail for the same reason:
 
-They collect information, but don’t drive action.
+They collect information, but they do not drive action.
 
 I focus on building systems that:
 
-- identify gaps  
-- quantify performance  
-- create feedback loops  
-- drive better decisions  
+- identify gaps
+- tighten execution
+- create feedback loops
+- improve decisions
+- produce leverage
 
 ---
 
 ## Areas of Focus
 
-- systems architecture  
-- execution systems  
-- applied AI workflows  
-- automation design  
-- performance analysis  
+- systems architecture
+- applied AI workflows
+- automation design
+- execution systems
+- performance analysis
+- product strategy
+- technical leadership
 
 ---
 
 ## Current Work Style
 
-This repo is not a polished product showcase.
+This repository contains:
 
-It’s a working environment.
+- system prototypes
+- SaaS experiments
+- AI workflows
+- working product infrastructure
+- operational ideas under active development
 
-You’ll find:
-
-- experiments  
-- system prototypes  
-- evolving ideas  
-- practical implementations  
-
-Everything here is built with one constraint:
-
-👉 it must be useful in the real world  
+Some parts are polished.
+Some parts are moving fast.
+All of it is aimed at real use, not just presentation.
 
 ---
 
 ## Crouch Development
 
-Systems. Strategy. Execution.
+**Systems. Strategy. Execution.**
 
-https://crouchdevelopment.com
+Website: https://crouchdevelopment.com
 
 ---
 
