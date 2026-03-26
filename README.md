@@ -2,111 +2,210 @@
   <img src="assets/cd-mark.png" width="90" alt="Crouch Development mark">
 </p>
 
-# Bryan Crouch
+<h1 align="center">Bryan Crouch</h1>
 
-I build systems that improve execution.
+<p align="center">
+  I build systems that create <strong>unfair execution advantages</strong>.
+</p>
 
-Crouch Development sits at the intersection of:
+<p align="center">
+  Crouch Development is not a portfolio.<br/>
+  It is a <strong>live operating environment</strong> where products, tools, and systems are actively being built, tested, and deployed in the real world.
+</p>
 
-- applied AI
-- automation
-- execution systems
-- decision support
-- productized tools
-- real-world business leverage
+<hr/>
 
-I care less about theory and more about one question:
+<h2>The Work</h2>
 
-**What actually helps people move faster, decide better, and produce better outcomes?**
+<p>
+Everything here sits at the intersection of:
+</p>
 
----
+<ul>
+  <li>applied AI</li>
+  <li>automation</li>
+  <li>execution systems</li>
+  <li>decision support</li>
+  <li>productized tools</li>
+  <li>real-world business leverage</li>
+</ul>
 
-## What This Repository Represents
+<p>
+<strong>The filter is simple:</strong>
+</p>
 
-This is not a polished “look at me” portfolio repo.
+<p>
+<em>Does this actually help someone move faster, decide better, and produce better outcomes?</em>
+</p>
 
-It is a live working environment.
+<p>If not, it doesn’t belong.</p>
 
-Inside this ecosystem are experiments, product shells, decision tools, lead-generation systems, and execution frameworks that are actively being designed, refined, and pushed forward in public.
+<hr/>
 
-The constraint is simple:
+<h2>The Ecosystem</h2>
 
-**It has to be useful in the real world.**
+<p>
+This is not one product.<br/>
+It is a <strong>stack of systems</strong> designed to reinforce each other.
+</p>
 
----
+<h3>BidForge</h3>
+<p><strong>Fast estimating software for small contractors.</strong></p>
+<p>
+Built to replace bloated construction tools with something faster, cleaner, and actually usable for owner-operators.
+</p>
 
-## What I’m Building
+<h3>Outcome OS</h3>
+<p><strong>Execution infrastructure for serious operators.</strong></p>
+<p>
+A system designed to turn ideas into:
+</p>
+<ul>
+  <li>structured action</li>
+  <li>repeatable workflows</li>
+  <li>compounding output</li>
+</ul>
+<p>
+This is the layer that connects everything else.
+</p>
 
-### BidForge
-Fast estimating software for small contractors.
+<h3>Client Capture Systems</h3>
+<p><strong>Lead-generation infrastructure for service businesses.</strong></p>
+<p>
+Focused on:
+</p>
+<ul>
+  <li>legitimacy</li>
+  <li>clarity</li>
+  <li>conversion</li>
+  <li>inbound flow</li>
+</ul>
+<p>
+Built as “business-in-a-box” systems that actually produce requests.
+</p>
 
-Built to help small shops create professional estimates, cleaner proposals, and a more practical workflow without bloated software overhead.
+<h3>YouTube Performance Analyzer</h3>
+<p><strong>AI-driven comparison engine.</strong></p>
+<p>
+Breaks down:
+</p>
+<ul>
+  <li>why one video outperformed another</li>
+  <li>where the gap is</li>
+  <li>what to fix</li>
+</ul>
+<p>
+Turns content guesswork into measurable improvement.
+</p>
 
-### Outcome OS
-An execution system for turning ideas into structured action, repeatable workflows, and compounding progress.
+<h3>Production Mode</h3>
+<p><strong>Execution philosophy.</strong></p>
+<p>
+Not motivation. Not theory.
+</p>
+<p>
+A system for:
+</p>
+<ul>
+  <li>removing friction</li>
+  <li>eliminating hesitation</li>
+  <li>increasing output</li>
+</ul>
 
-### Client Capture Systems
-Productized lead-capture and web-presence systems built for service businesses that need to look legitimate, reduce friction, and generate more inbound requests.
+<hr/>
 
-### YouTube Performance Analyzer
-An AI-assisted comparison engine that evaluates two videos, explains why one outperformed the other, and surfaces actionable fixes tied to title strength, positioning, engagement, and velocity.
+<h2>How I Build</h2>
 
-### Production Mode
-A focused execution framework built around moving from planning into real output.
+<p>
+Most systems fail because they <strong>collect information but don’t drive action</strong>.
+</p>
 
----
+<p>
+Everything here is built to:
+</p>
 
-## How I Think
+<ul>
+  <li>expose gaps</li>
+  <li>tighten execution</li>
+  <li>create feedback loops</li>
+  <li>improve decision quality</li>
+  <li>produce measurable leverage</li>
+</ul>
 
-Most systems fail for the same reason:
+<p>
+If it doesn’t lead to action, it gets cut.
+</p>
 
-They collect information, but they do not drive action.
+<hr/>
 
-I focus on building systems that:
+<h2>What This Repo Actually Is</h2>
 
-- identify gaps
-- tighten execution
-- create feedback loops
-- improve decisions
-- produce leverage
+<p>
+This is a <strong>working system</strong>, not a showcase.
+</p>
 
----
+<p>
+Inside you’ll find:
+</p>
 
-## Areas of Focus
+<ul>
+  <li>product infrastructure</li>
+  <li>SaaS experiments</li>
+  <li>AI workflows</li>
+  <li>execution frameworks</li>
+  <li>real systems under active development</li>
+</ul>
 
-- systems architecture
-- applied AI workflows
-- automation design
-- execution systems
-- performance analysis
-- product strategy
-- technical leadership
+<p>
+Some parts are refined.<br/>
+Some parts are moving fast.<br/>
+</p>
 
----
+<p>
+All of it is pointed at <strong>real-world use</strong>.
+</p>
 
-## Current Work Style
+<hr/>
 
-This repository contains:
+<h2>Current Focus</h2>
 
-- system prototypes
-- SaaS experiments
-- AI workflows
-- working product infrastructure
-- operational ideas under active development
+<ul>
+  <li>expanding BidForge into a production-ready SaaS</li>
+  <li>building Outcome OS into a full execution system</li>
+  <li>refining client capture systems into scalable products</li>
+  <li>developing AI-driven analysis tools</li>
+  <li>tightening the connection between systems</li>
+</ul>
 
-Some parts are polished.
-Some parts are moving fast.
-All of it is aimed at real use, not just presentation.
+<hr/>
 
----
+<h2>Areas of Depth</h2>
 
-## Crouch Development
+<ul>
+  <li>systems architecture</li>
+  <li>applied AI workflows</li>
+  <li>automation design</li>
+  <li>execution systems</li>
+  <li>performance analysis</li>
+  <li>product strategy</li>
+  <li>technical leadership</li>
+</ul>
 
-**Systems. Strategy. Execution.**
+<hr/>
 
-Website: https://crouchdevelopment.com
+<h2>Crouch Development</h2>
 
----
+<p><strong>Systems. Strategy. Execution.</strong></p>
 
-> Better systems create better outcomes.  
-> Better outcomes compound.
+<p>
+<a href="https://crouchdevelopment.com" target="_blank">
+  https://crouchdevelopment.com
+</a>
+</p>
+
+<hr/>
+
+<p align="center">
+  <em>Better systems create better outcomes.<br/>
+  Better outcomes compound.</em>
+</p>
