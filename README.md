@@ -5,6 +5,11 @@
 <h1 align="center">Bryan Crouch</h1>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Operator-Execution%20First-orange" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Systems%20%7C%20Automation-black" />
+</p>
+
+<p align="center">
   I build systems that create <strong>unfair execution advantages</strong>.
 </p>
 
