@@ -14,8 +14,8 @@
 </p>
 
 <p align="center">
-  Crouch Development is not a portfolio.<br/>
-  It is a <strong>live operating environment</strong> where products, tools, and systems are actively being built, tested, and deployed in the real world.
+  Crouch Development is not a static portfolio.<br/>
+  It is a <strong>working environment</strong> where products, operating systems, and practical business tools are actively being built, refined, and tested against real-world use.
 </p>
 
 <hr/>
@@ -23,7 +23,7 @@
 <h2>The Work</h2>
 
 <p>
-Everything here sits at the intersection of:
+Everything here lives at the intersection of:
 </p>
 
 <ul>
@@ -31,8 +31,8 @@ Everything here sits at the intersection of:
   <li>automation</li>
   <li>execution systems</li>
   <li>decision support</li>
-  <li>productized tools</li>
-  <li>real-world business leverage</li>
+  <li>productized business tools</li>
+  <li>real-world operational leverage</li>
 </ul>
 
 <p>
@@ -40,67 +40,68 @@ Everything here sits at the intersection of:
 </p>
 
 <p>
-<em>Does this actually help someone move faster, decide better, and produce better outcomes?</em>
+<em>Does this help someone move faster, see more clearly, and execute at a higher level?</em>
 </p>
 
-<p>If not, it doesn’t belong.</p>
+<p>
+If not, it gets cut.
+</p>
 
 <hr/>
 
 <h2>The Ecosystem</h2>
 
 <p>
-This is not one product.<br/>
-It is a <strong>stack of systems</strong> designed to reinforce each other.
+This is not one product and not one lane.<br/>
+It is a <strong>connected stack of systems</strong> built to reinforce execution, clarity, and momentum.
 </p>
 
 <h3>BidForge</h3>
 <p><strong>Fast estimating software for small contractors.</strong></p>
 <p>
-Built to replace bloated construction tools with something faster, cleaner, and actually usable for owner-operators.
+Built to replace bloated construction tools with something faster, cleaner, and easier for owner-operators to actually use.
 </p>
 
 <h3>Outcome OS</h3>
 <p><strong>Execution infrastructure for serious operators.</strong></p>
 <p>
-A system designed to turn ideas into:
+A system for turning ideas into structured action, repeatable workflows, and consistent forward movement.
+</p>
+<p>
+This is the layer that helps everything else move.
+</p>
+
+<h3>IronRidge Demo Ecosystem</h3>
+<p><strong>Connected operational demos built around a fictional contractor environment.</strong></p>
+<p>
+A four-repo showcase environment designed to demonstrate:
 </p>
 <ul>
-  <li>structured action</li>
-  <li>repeatable workflows</li>
-  <li>compounding output</li>
+  <li>executive reporting clarity</li>
+  <li>workflow design that reduces drag</li>
+  <li>execution systems that improve follow-through</li>
+  <li>field-aware operational tooling</li>
 </ul>
 <p>
-This is the layer that connects everything else.
+This ecosystem exists to make systems thinking visible.
 </p>
 
 <h3>Client Capture Systems</h3>
 <p><strong>Lead-generation infrastructure for service businesses.</strong></p>
 <p>
-Focused on:
+Focused on legitimacy, clarity, conversion, and inbound flow.
 </p>
-<ul>
-  <li>legitimacy</li>
-  <li>clarity</li>
-  <li>conversion</li>
-  <li>inbound flow</li>
-</ul>
 <p>
-Built as “business-in-a-box” systems that actually produce requests.
+These are built as practical “business-in-a-box” systems designed to produce real requests, not just look good.
 </p>
 
 <h3>YouTube Performance Analyzer</h3>
-<p><strong>AI-driven comparison engine.</strong></p>
+<p><strong>AI-assisted content comparison and performance analysis.</strong></p>
 <p>
-Breaks down:
+Built to identify why one video outperformed another, where the gap is, and what needs to change.
 </p>
-<ul>
-  <li>why one video outperformed another</li>
-  <li>where the gap is</li>
-  <li>what to fix</li>
-</ul>
 <p>
-Turns content guesswork into measurable improvement.
+The goal is to reduce guesswork and create measurable improvement.
 </p>
 
 <h3>Production Mode</h3>
@@ -109,20 +110,15 @@ Turns content guesswork into measurable improvement.
 Not motivation. Not theory.
 </p>
 <p>
-A system for:
+A practical approach to removing friction, reducing hesitation, and increasing output where it actually counts.
 </p>
-<ul>
-  <li>removing friction</li>
-  <li>eliminating hesitation</li>
-  <li>increasing output</li>
-</ul>
 
 <hr/>
 
 <h2>How I Build</h2>
 
 <p>
-Most systems fail because they <strong>collect information but don’t drive action</strong>.
+Most systems fail because they collect information but never turn it into action.
 </p>
 
 <p>
@@ -130,43 +126,41 @@ Everything here is built to:
 </p>
 
 <ul>
-  <li>expose gaps</li>
+  <li>expose gaps quickly</li>
   <li>tighten execution</li>
-  <li>create feedback loops</li>
+  <li>create stronger feedback loops</li>
   <li>improve decision quality</li>
   <li>produce measurable leverage</li>
 </ul>
 
 <p>
-If it doesn’t lead to action, it gets cut.
+If it does not improve action, visibility, or output, it does not stay.
 </p>
 
 <hr/>
 
-<h2>What This Repo Actually Is</h2>
+<h2>What This Repository Actually Represents</h2>
 
 <p>
-This is a <strong>working system</strong>, not a showcase.
+This repository is not a polished museum piece.
 </p>
 
 <p>
-Inside you’ll find:
+It is the front door to a larger body of work that includes:
 </p>
 
 <ul>
   <li>product infrastructure</li>
   <li>SaaS experiments</li>
   <li>AI workflows</li>
-  <li>execution frameworks</li>
-  <li>real systems under active development</li>
+  <li>execution systems</li>
+  <li>automation concepts</li>
+  <li>operational demos tied to real business problems</li>
 </ul>
 
 <p>
-Some parts are refined.<br/>
-Some parts are moving fast.<br/>
-</p>
-
-<p>
+Some parts are mature.<br/>
+Some parts are evolving quickly.<br/>
 All of it is pointed at <strong>real-world use</strong>.
 </p>
 
@@ -175,11 +169,12 @@ All of it is pointed at <strong>real-world use</strong>.
 <h2>Current Focus</h2>
 
 <ul>
-  <li>expanding BidForge into a production-ready SaaS</li>
-  <li>building Outcome OS into a full execution system</li>
-  <li>refining client capture systems into scalable products</li>
-  <li>developing AI-driven analysis tools</li>
-  <li>tightening the connection between systems</li>
+  <li>expanding BidForge toward a stronger production-ready SaaS</li>
+  <li>developing Outcome OS into a deeper execution system</li>
+  <li>building connected demo ecosystems that show practical operating leverage</li>
+  <li>refining client capture systems into scalable assets</li>
+  <li>developing AI-assisted analysis and decision-support tools</li>
+  <li>tightening the connection between products, workflows, and execution layers</li>
 </ul>
 
 <hr/>
@@ -191,6 +186,7 @@ All of it is pointed at <strong>real-world use</strong>.
   <li>applied AI workflows</li>
   <li>automation design</li>
   <li>execution systems</li>
+  <li>operational visibility</li>
   <li>performance analysis</li>
   <li>product strategy</li>
   <li>technical leadership</li>
