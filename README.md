@@ -1,212 +1,124 @@
 <p align="center">
-  <img src="assets/cd-mark.png" width="90" alt="Crouch Development mark">
+  <img src="assets/cd-mark.png" width="92" alt="Crouch Development">
 </p>
 
 <h1 align="center">Bryan Crouch</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Operator-Execution%20First-orange" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Systems%20%7C%20Automation-black" />
+  <strong>I build systems that turn complexity into action.</strong>
 </p>
 
 <p align="center">
-  I build systems that create <strong>unfair execution advantages</strong>.
+  Founder of <a href="https://crouchdevelopment.com">Crouch Development</a> · Technology strategist · Systems architect · Product builder
 </p>
 
 <p align="center">
-  Crouch Development is not a static portfolio.<br/>
-  It is a <strong>working environment</strong> where products, operating systems, and practical business tools are actively being built, refined, and tested against real-world use.
+  <a href="https://crouchdevelopment.com"><img src="https://img.shields.io/badge/Crouch_Development-FF6B00?style=flat-square&logoColor=white" alt="Crouch Development"></a>
+  <a href="https://outcomesos.com"><img src="https://img.shields.io/badge/Outcomes_OS-111111?style=flat-square&logoColor=white" alt="Outcomes OS"></a>
+  <a href="https://transformedtoday.com"><img src="https://img.shields.io/badge/Transformed_Today-C9A227?style=flat-square&logoColor=white" alt="Transformed Today"></a>
 </p>
 
-<hr/>
+---
 
-<h2>The Work</h2>
+## I build the system behind the outcome
 
-<p>
-Everything here lives at the intersection of:
-</p>
+I spent nearly three decades solving technology and operational problems inside real organizations. Today, I turn that experience into software, automation, operating systems, and digital products that help people and businesses execute with greater clarity.
 
-<ul>
-  <li>applied AI</li>
-  <li>automation</li>
-  <li>execution systems</li>
-  <li>decision support</li>
-  <li>productized business tools</li>
-  <li>real-world operational leverage</li>
-</ul>
+Crouch Development is my operational systems lab. I identify friction, map the real workflow, build the right tool, connect the infrastructure, and carry it through production. The work spans product strategy, application architecture, AI-assisted workflows, data systems, deployment, analytics, customer acquisition, and operational documentation.
 
-<p>
-<strong>The filter is simple:</strong>
-</p>
+These repositories are not a collection of coding exercises. They are the working parts of a connected business and product ecosystem.
 
-<p>
-<em>Does this help someone move faster, see more clearly, and execute at a higher level?</em>
-</p>
+## What I am building
 
-<p>
-If not, it gets cut.
-</p>
+### Bryan OS
 
-<hr/>
+The control plane for my entire software and product portfolio.
 
-<h2>The Ecosystem</h2>
+Bryan OS is a GitHub-first operating system that gives both humans and AI agents enough durable context to build, deploy, commercialize, document, and continue work without depending on chat history or memory. It governs application registration, infrastructure, architectural decisions, product state, commercial readiness, priorities, verification, and handoff.
 
-<p>
-This is not one product and not one lane.<br/>
-It is a <strong>connected stack of systems</strong> built to reinforce execution, clarity, and momentum.
-</p>
+Its active factories include:
 
-<h3>BidForge</h3>
-<p><strong>Fast estimating software for small contractors.</strong></p>
-<p>
-Built to replace bloated construction tools with something faster, cleaner, and easier for owner-operators to actually use.
-</p>
+- **App Factory** for building and operating production software
+- **Offer Factory** for defining viable, truthful commercial offers
+- **Product Factory** for turning intellectual property into release-ready products
+- **Growth Factory** for acquisition, activation, conversion, and retention
+- **Content Engine** for research, production, repurposing, and performance learning
 
-<h3>Outcome OS</h3>
-<p><strong>Execution infrastructure for serious operators.</strong></p>
-<p>
-A system for turning ideas into structured action, repeatable workflows, and consistent forward movement.
-</p>
-<p>
-This is the layer that helps everything else move.
-</p>
+This is the system that changed how I build. Every serious project now has an owner, a source of truth, a production path, and a documented next action.
 
-<h3>IronRidge Demo Ecosystem</h3>
-<p><strong>Connected operational demos built around a fictional contractor environment.</strong></p>
-<p>
-A four-repo showcase environment designed to demonstrate:
-</p>
-<ul>
-  <li>executive reporting clarity</li>
-  <li>workflow design that reduces drag</li>
-  <li>execution systems that improve follow-through</li>
-  <li>field-aware operational tooling</li>
-</ul>
-<p>
-This ecosystem exists to make systems thinking visible.
-</p>
+### Crouch Development
 
-<h3>Client Capture Systems</h3>
-<p><strong>Lead-generation infrastructure for service businesses.</strong></p>
-<p>
-Focused on legitimacy, clarity, conversion, and inbound flow.
-</p>
-<p>
-These are built as practical “business-in-a-box” systems designed to produce real requests, not just look good.
-</p>
+A transformation company built around custom systems, practical automation, and measurable operational improvement.
 
-<h3>YouTube Performance Analyzer</h3>
-<p><strong>AI-assisted content comparison and performance analysis.</strong></p>
-<p>
-Built to identify why one video outperformed another, where the gap is, and what needs to change.
-</p>
-<p>
-The goal is to reduce guesswork and create measurable improvement.
-</p>
+I build for businesses that have outgrown scattered tools, manual handoffs, unclear data, and generic software. The goal is a system shaped around how the organization actually works.
 
-<h3>Production Mode</h3>
-<p><strong>Execution philosophy.</strong></p>
-<p>
-Not motivation. Not theory.
-</p>
-<p>
-A practical approach to removing friction, reducing hesitation, and increasing output where it actually counts.
-</p>
+### Outcomes OS
 
-<hr/>
+A weekly execution system built to fight drift and turn priorities into consistent action.
 
-<h2>How I Build</h2>
+Outcomes OS connects planning, focus, review, and follow-through in one operating rhythm. It reflects a principle that drives nearly everything I build: better outcomes require better systems.
 
-<p>
-Most systems fail because they collect information but never turn it into action.
-</p>
+### RADAR
 
-<p>
-Everything here is built to:
-</p>
+A construction market intelligence and controlled outreach platform.
 
-<ul>
-  <li>expose gaps quickly</li>
-  <li>tighten execution</li>
-  <li>create stronger feedback loops</li>
-  <li>improve decision quality</li>
-  <li>produce measurable leverage</li>
-</ul>
+RADAR discovers and qualifies companies, enriches business and website data, scores opportunities, routes approved prospects into Brevo, and protects outreach behind deliberate verification gates. It is a purpose-built growth engine, not a generic scraped lead list.
 
-<p>
-If it does not improve action, visibility, or output, it does not stay.
-</p>
+### Search Signal
 
-<hr/>
+A read-only Google Search Console intelligence layer that finds what is already earning attention and shows where to double down.
 
-<h2>What This Repository Actually Represents</h2>
+It compares periods, ranks query and page opportunities, exposes content gaps, and turns search data into specific actions. Search Signal is part of a larger acquisition system connecting intelligence, useful free tools, commercial services, and measurable conversion paths.
 
-<p>
-This repository is not a polished museum piece.
-</p>
+### Early Bird
 
-<p>
-It is the front door to a larger body of work that includes:
-</p>
+A seven-day morning-system installation package with a complete commerce and fulfillment stack.
 
-<ul>
-  <li>product infrastructure</li>
-  <li>SaaS experiments</li>
-  <li>AI workflows</li>
-  <li>execution systems</li>
-  <li>automation concepts</li>
-  <li>operational demos tied to real business problems</li>
-</ul>
+The product combines original intellectual property, a structured customer package, Stripe checkout, Cloudflare D1 order records, private R2 fulfillment, Brevo delivery automation, release manifests, and explicit go/no-go controls.
 
-<p>
-Some parts are mature.<br/>
-Some parts are evolving quickly.<br/>
-All of it is pointed at <strong>real-world use</strong>.
-</p>
+### Client systems
 
-<hr/>
+I also build and operate focused systems for real businesses and organizations, including:
 
-<h2>Current Focus</h2>
+- local-service lead generation and conversion platforms
+- SEO and search-authority systems
+- operational dashboards and decision support
+- client delivery and engagement infrastructure
+- church, ministry, and transformation platforms
+- AI-assisted analysis and workflow automation
 
-<ul>
-  <li>expanding BidForge toward a stronger production-ready SaaS</li>
-  <li>developing Outcome OS into a deeper execution system</li>
-  <li>building connected demo ecosystems that show practical operating leverage</li>
-  <li>refining client capture systems into scalable assets</li>
-  <li>developing AI-assisted analysis and decision-support tools</li>
-  <li>tightening the connection between products, workflows, and execution layers</li>
-</ul>
+## How I work
 
-<hr/>
+My standard is simple: verify the truth, design the smallest coherent system, ship it safely, measure what happens, and preserve enough context for the next person or agent to continue.
 
-<h2>Areas of Depth</h2>
+That means:
 
-<ul>
-  <li>systems architecture</li>
-  <li>applied AI workflows</li>
-  <li>automation design</li>
-  <li>execution systems</li>
-  <li>operational visibility</li>
-  <li>performance analysis</li>
-  <li>product strategy</li>
-  <li>technical leadership</li>
-</ul>
+- GitHub is the durable source of truth
+- production infrastructure is verified before it is changed
+- architecture follows the actual workflow
+- commercial products require a defined offer
+- important decisions do not live only in chat
+- deployment is not completion until production behavior is verified
+- automation should reduce dependency, not create another black box
 
-<hr/>
+I care about the entire path from idea to working outcome. Code matters. So do positioning, data, delivery, adoption, documentation, and the operating system around the code.
 
-<h2>Crouch Development</h2>
+## Current technology
 
-<p><strong>Systems. Strategy. Execution.</strong></p>
+`TypeScript` · `Next.js` · `React` · `Astro` · `Tailwind CSS` · `Node.js` · `Cloudflare Workers` · `D1` · `R2` · `Supabase` · `PostgreSQL` · `Vercel` · `Stripe` · `Brevo` · `Resend` · `OpenAI` · `Google Search Console` · `GitHub Actions`
 
-<p>
-<a href="https://crouchdevelopment.com" target="_blank">
-  https://crouchdevelopment.com
-</a>
-</p>
+## More than software
 
-<hr/>
+I am also a preacher, author, speaker, and the creator behind [Transformed Today](https://transformedtoday.com). My technology work and ministry work share the same core conviction:
+
+**Transformation becomes real when truth is connected to a system people can actually live.**
+
+---
 
 <p align="center">
-  <em>Better systems create better outcomes.<br/>
-  Better outcomes compound.</em>
+  <strong>Systems. Strategy. Execution. Transformation.</strong>
+</p>
+
+<p align="center">
+  <a href="https://crouchdevelopment.com">crouchdevelopment.com</a>
 </p>
